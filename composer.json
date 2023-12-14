@@ -4,8 +4,7 @@
     "description": "TasksRestApi module",
     "license": "proprietary",
     "require": {
-        "php": ">=8.2",
-        "spryker/kernel": "^3.30.0"
+
     },
     "require-dev": {
         "spryker/code-sniffer": "*",
